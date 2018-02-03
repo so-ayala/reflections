@@ -1,0 +1,2 @@
+Git uses intialize repository to generate required metadata and create folder .git with required files
+Staging area allows user to do selective commits. Staging area is temporary storage for the files until they are comitted to the repositary 
