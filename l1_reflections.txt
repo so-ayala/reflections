@@ -1,0 +1,7 @@
+Either manually or using Mac command line tool Diff. Diff tool compares old and new version of the files and prints out lines that are different/modifed in one or both of the files
+Saving the previous versions of the files thereby maintaining the history of the files enables programmers to retrieve previously saved versions of file in case of loss of the file (accidental deletion) or fix bugs in the code by tracking the changes made at different instances of time or when  multiple users are working on the same project.
+Ability to manually commit changes gives more control to the user. User can commit the changes when it makes most sense logically. This helps clearly demark and track commits based on whether the commit was for a new feature, bug fix etc. Automatically save feature may be good for word documents and such but not for code as there might be too many versions that do not make sense or help in tracking the logical changes made to the file.
+4. Usually in coding projects multiple files are connected/related to each other which may not be or not very often the case with google docs. 
+Git log and Git diff help see/track the changes made between to different version of files
+If recent changes made to the code introduced bugs making the program unable to fucntion as expected Version control makes it easy to revert to stable know working set of files 
+For version control of all my udacity practice projects 
